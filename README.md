@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=glass&color=0:000000,100:1a1a2e&height=200&section=header&text=SIYATH%20KORALAGE&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL%20STACK%20DEVELOPER&descFontSize=14&descAlignY=68&descColor=8b9bb4" width="100%" alt="Header Glass Banner" />
+<img src="https://svg.shields.io/badge/SIYATH--KORALAGE-SOFTWARE--ENGINEER-000000?style=for-the-badge&logoColor=white&color=000000" width="100%" height="60" alt="Header Banner" />
 
 <br/><br/>
 
@@ -43,15 +43,8 @@ Direct Contact: [siyathkoralage07@gmail.com](mailto:siyathkoralage07@gmail.com) 
 
 <br/><br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siyathkoralage07-prog&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b9bb4&icon_color=ffffff&bg_color=00000000&show_icons=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyathkoralage07-prog&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b9bb4&icon_color=ffffff&bg_color=00000000&langs_count=8" />
-</p>
-
-<br/>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://svg.shields.io/badge/-%E2%98%95--BREWING--CLEAN--CODE--DAILY-000000?style=for-the-badge&color=1a1a2e" width="100%" height="45" alt="Footer Banner" />
 
 </div>
